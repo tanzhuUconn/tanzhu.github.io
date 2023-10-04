@@ -8,114 +8,43 @@ redirect_from:
   - /about.html
 ---
 
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-My research interests lie primarily in click-through rate (CTR) prediction, recommendation systems, feature interaction learning and  brain image classification.
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-<--!
-with an emphasis on .,...
--->
-<!--
-I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Watson Research Center, JD AI Research and University of Southern California.
--->
+Getting started
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
 
-## Experience
-**09/2015 - 08/2020 | Research Assistant | University of Connecticut**
-<!-- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
-<!--* Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) (Advised by Prof. Wang for a year).-->
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-## Publications
-<!-- 
-__[Diable: Efficient Dialogue State Tracking as Operations on Tables](https://arxiv.org/abs/2305.17020)__  
-Pietro Lesci, Yoshinari Fujinuma, Momchil Hardalov, Chao Shang, Lluis Marquez. 
-The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023. (Findings) [Code](https://github.com/amazon-science/efficient-dialogue-state-tracking-by-sequential-information-processing)
+**Markdown generator**
 
-__[Automatic depression screening using social interaction data on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000903)__  
-Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Dongjin Song, Athanasios Bamis, Bing Wang. 
-Smart Health, 2022.
+I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-__[Variance of the Gradient Also Matters: Privacy Leakage from Gradients](https://ieeexplore.ieee.org/abstract/document/9892665)__  
-Yijue Wang, Jieren Deng, Dan Guo, Chenghong Wang, Xianrui Meng, Hang Liu, Chao Shang, Binghui Wang, Qin Cao, Caiwen Ding, Sanguthevar Rajasekaran. International Joint Conference on Neural Networks (IJCNN), 2022.
+How to edit your site's GitHub repository
+------
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-__[Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs](https://arxiv.org/pdf/2203.00255.pdf)__  
-Chao Shang, Guangtao Wang, Peng Qi, Jing Huang.
-The 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
-__[TAG: Gradient Attack on Transformer-based Language Models](https://aclanthology.org/2021.findings-emnlp.305.pdf)__   
-Jieren Deng, Yijue Wang, Ji Li, Chenghong Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran and Caiwen Ding.
-The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021. (Findings)
-
-__[Open Temporal Relation Extraction for Question Answering](https://openreview.net/pdf?id=li-3nHhT0xc)__   
-Chao Shang, Peng Qi, Guangtao Wang, Jing Huang, Youzheng Wu, and Bowen Zhou.
-Automated Knowledge Base Construction (AKBC), 2021.
-
-__[Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/pdf?id=WEHSlH5mOk)__  
-Chao Shang, Jie Chen, and Jinbo Bi. 
-The International Conference on Learning Representations (ICLR), 2021. [Code](https://github.com/chaoshangcs/GTS)
-
-__[Multi-view spectral graph convolution with consistent edge attention for molecular modeling](https://www.sciencedirect.com/science/article/pii/S092523122100271X?casa_token=YMTYmubwcM8AAAAA:6amGUUDcGk4bdzTlgZwt9GVGa5PTtQYEpfYDihzv4Fmwlq_bw9SLAItpqQVMFMwLIYy4D66MDMM)__  
-Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. 
-Neurocomputing, 2021.  [Code](https://github.com/Luckick/EAGCN)
-
-__[End-to-End Structure-Aware Convolutional Networks on Graphs](https://opencommons.uconn.edu/dissertations/2555/)__  
-Chao Shang. University of Connecticut, 2020.
-
-__[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
-Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
-The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [Code](https://github.com/IBM/gnn-taxo-construction)
-
-__[Automatic depression prediction using Internet traffic characteristics on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300295)__  
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis, Bing Wang.
-Smart Health, 2020.
-
-__[Predicting Outcomes of Chemical Reactions: A Seq2Seq Approach with Multi-view Attention and Edge Embedding](https://chaoshangcs.com/)__  
-Xia Xiao, Chao Shang, Jinbo Bi and Sanguthevar Rajasekaran.
-International Joint Conference on Neural Networks (IJCNN), 2020.
-
-__[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://arxiv.org/pdf/1811.04441.pdf)__  
-Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, and Bowen Zhou. 
-The AAAI Conference on Artificial Intelligence (AAAI), 2019. [Code](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
-
-
-__[Large-scale Automatic Depression Screening Using Meta-data from WiFi Infrastructure](https://dl.acm.org/citation.cfm?id=3287073)__  
-Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
-ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2019. (ACM Journal of IMWUT)
-
-__[Predicting Depressive Symptoms Using Smartphone Data](https://www.sciencedirect.com/science/article/pii/S2352648319300571)__  
-Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang,  Jayesh Kamath,  Athanasios Bamis, Jinbo Bi, Alexander Russell and Bing Wang.
-IEEE/ACM CHASE, 2019.
-
-__[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
-Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 
-arXiv preprint arXiv:1802.04944, 2018.  
-
-__[Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning](https://dl.acm.org/citation.cfm?id=3191753)__  
-Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi. 
-ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018. (ACM Journal of IMWUT)
-
-__[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)__  
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
-IEEE Transactions on Big Data (IEEE TBDATA), 2018.
-
-__[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
-Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi.    
-IEEE International Conference on Big Data (IEEE BigData), 2017.  [Code](https://github.com/chaoshangcs/VIGAN)
-
-
-__[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/document/8397515)__  
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
-IEEE Ubiquitous Intelligence & Computing (UIC), 2017.
-
-__[Event Extraction from Unstructured Text Data](https://link.springer.com/chapter/10.1007/978-3-319-22849-5_38)__  
-Chao Shang, Anand Panangadan, and Victor K. Prasanna.   
-International Conference on Database and Expert Systems Applications (DEXA), 2015.
-
-__[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
-Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.   
-International Journal of Distributed Sensor Networks (IJDSN), 2014	.
--->
-
-## Contact
-Email: zhutanwow AT gmail.com 
+For more info
+------
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
