@@ -12,7 +12,7 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 ## Experience
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 <!-- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
-* Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) (Advised by Prof. Wang for a year).
+<!--* Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) (Advised by Prof. Wang for a year).-->
 
 
 ## Publications
