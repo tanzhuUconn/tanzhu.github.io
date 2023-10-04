@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
 My research interests lie primarily in click-through rate (CTR) prediction, recommendation systems, feature interaction learning and  brain image classification.
