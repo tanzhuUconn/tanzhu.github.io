@@ -10,9 +10,9 @@ redirect_from:
 
 ======
 
-I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
+I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
-My research interests lie primarily in click-through rate (CTR) prediction, recommendation systems, feature interaction learning and  brain image classification.
+My research interests lie primarily in Click-through rate (CTR) prediction, deep Stochastic Contextual Bandits, and machine learning using brain Magnetic resonance imaging (MRI) image datasets.
 
 ## Experience
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
