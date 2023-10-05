@@ -29,7 +29,7 @@ BS of Engineering in Computer Science and Technology
 Thesis: Design and Implementation of Script-Based Information System
 
 Aug. 2010 – Jun. 2014
-## Publications
+## Selected Publications
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl&noteId=zIxILt5xSz)__  
 Tan Zhu, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
 Advances in Neural Information Processing Systems, 2023.
