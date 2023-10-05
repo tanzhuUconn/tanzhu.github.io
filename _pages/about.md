@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
