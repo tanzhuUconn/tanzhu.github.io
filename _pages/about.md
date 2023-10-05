@@ -30,7 +30,11 @@ Thesis: Design and Implementation of Script-Based Information System
 
 Aug. 2010 – Jun. 2014
 ## Publications
- __[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
+__[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl&noteId=zIxILt5xSz)__  
+Tan Zhu, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
+Advances in Neural Information Processing Systems, 2023.
+
+__[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
 Tan Zhu, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
 Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2023.
 
