@@ -42,11 +42,7 @@ Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2023.
 Fei Dou, Jin Lu, **Tan Zhu**, Jinbo Bi.
 IEEE Internet of Things Journal, 2023.
 
-__[Identifying alcohol misuse biotypes from neural connectivity markers and concurrent genetic associations](https://www.nature.com/articles/s41398-022-01983-1)__  
-**Tan Zhu**, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
-Translational Psychiatry, 12(1), 253, 2022.
-
-__[Identifying alcohol misuse biotypes from neural connectivity markers and concurrent genetic associations](https://www.nature.com/articles/s41398-022-01983-1)__  
+__[Identifying Alcohol Misuse Biotypes from Neural Connectivity Markers and Concurrent Genetic Associations](https://www.nature.com/articles/s41398-022-01983-1)__  
 **Tan Zhu**, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
 Translational Psychiatry, 12(1), 253, 2022.
 
@@ -58,17 +54,13 @@ __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aa
 **Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
 Proceedings of the AAAI Conference on Artificial Intelligence, 35, 11193–11201, 2021.
 
-__[Communication-optimal distributed dynamic graph clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
+__[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
 Proceedings of the AAAI Conference on Artificial Intelligence, 33, 5957–5964, 2019.
 
 __[Belief-state Monte-Carlo tree search for Phantom games](https://ieeexplore.ieee.org/document/7317917)__  
 Jiao Wang, **Tan Zhu**, Hongye Li, Chu-Hsuan Hsueh, I-Chen Wu.
 2015 IEEE Conference on Computational Intelligence and Games (CIG), 267–274. IEEE, 2015.
-
-__[Only-one-victor pattern learning in computer go](https://ieeexplore.ieee.org/document/7347363)__  
-Jiao Wang, Chenjun Xiao, **Tan Zhu**, Chu-Husan Hsueh, Wen-Jie Tseng, I-Chen Wu.
-IEEE Transactions on Computational Intelligence and AI in Games, 9(1), 88–102, 2015.
 
 ## Contact
 Email: tan.zhu AT uconn.com
