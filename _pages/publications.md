@@ -75,12 +75,3 @@ The 26th Chinese Control and Decision Conference (2014 CCDC), 3941–3946. IEEE,
 __[UCT based search in Phantom Go](https://ieeexplore.ieee.org/document/6561198)__  
 Shiquan Shen, Jie Xu, Hongye Li, Tan Zhu, Jiao Wang.
 2013 25th Chinese Control and Decision Conference (CCDC), 1665–1670. IEEE, 2013.
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
