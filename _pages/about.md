@@ -29,6 +29,7 @@ Learning feature interactions can be the key for multivariate predictive modelin
 
 <div>
 <img src="/images/neurips_pipeline.jpg" width="400" height="400">
+<img src="/images/model_interpretation.jpg" width="400" height="400">
 </div>
 
 
