@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl&noteId=zIxILt5xSz)__  
-Tan Zhu, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
-Advances in Neural Information Processing Systems, 2023.
+**Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
+**NeurIPS 2023, (Accept Ratio: 26.1%)**
 
 __[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
 Tan Zhu, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
@@ -16,17 +16,17 @@ Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2023.
 Fei Dou, Jin Lu, Tan Zhu, Jinbo Bi.
 IEEE Internet of Things Journal, 2023.
 
-__[Identifying alcohol misuse biotypes from neural connectivity markers and concurrent genetic associations](https://www.nature.com/articles/s41398-022-01983-1)__  
-Tan Zhu, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
-Translational Psychiatry, 12(1), 253, 2022.
+__[Identifying Alcohol Misuse Biotypes from Neural Connectivity Markers and Concurrent Genetic Associations](https://www.nature.com/articles/s41398-022-01983-1)__  
+**Tan Zhu**, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
+Translational Psychiatry, 12(1), 253, 2022, **Nature Communications**
 
 __[Federated Optimization of ℓ 0-norm Regularized Sparse Learning](https://www.mdpi.com/1999-4893/15/9/319)__  
 Qianqian Tong,Guannan Liang, Jiahao Ding, Tan Zhu, Miao Pan, Jinbo Bi.
 Federated Optimization of ℓ 0-norm Regularized Sparse Learning. Algorithms, 15(9), 319, 2022.
 
 __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/17335)__  
-Tan Zhu, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
-Proceedings of the AAAI Conference on Artificial Intelligence, 35, 11193–11201, 2021.
+**Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
+**AAAI 2021, (Accept Ratio: 21.1%)**
 
  __[OctSurf: Efficient hierarchical voxel-based molecular surface representation for protein-ligand affinity prediction](https://www.sciencedirect.com/science/article/pii/S1093326321000346)__  
 Qinqing Liu, Peng-Shuai Wang, Chunjiang Zhu, Blake Blumenfeld Gaines, Tan Zhu, Jinbo Bi, Minghu Song.
@@ -40,9 +40,9 @@ __[Federated nonconvex sparse learning](https://arxiv.org/abs/2101.00052)__
 Qianqian Tong, Guannan Liang, Tan Zhu, Jinbo Bi.
 Federated nonconvex sparse learning. arXiv Preprint arXiv:2101. 00052, 2020.
  
-__[Communication-optimal distributed dynamic graph clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
-Chun Jiang Zhu, Tan Zhu, Kam-Yiu Lam, Song Han, and Jinbo Bi.
-Proceedings of the AAAI Conference on Artificial Intelligence, 33, 5957–5964, 2019.
+__[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
+Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
+**AAAI 2019, (Accept Ratio: 19.2%)**
 
 __[Accelerating large-scale molecular similarity search through exploiting high performance computing](https://ieeexplore.ieee.org/abstract/document/8982950)__  
 Chun Jiang Zhu, Tan Zhu, Haining Li, Jinbo Bi, Minghu Song.
