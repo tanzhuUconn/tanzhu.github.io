@@ -34,7 +34,7 @@ IEEE Internet of Things Journal, 2023.
 
 __[Identifying Alcohol Misuse Biotypes from Neural Connectivity Markers and Concurrent Genetic Associations](https://www.nature.com/articles/s41398-022-01983-1)__  
 **Tan Zhu**, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
-Translational Psychiatry, 12(1), 253, 2022, **Nature Portfolio**
+Translational Psychiatry, 12(1), 253, 2022, **Nature Communications**
 
 __[Federated Optimization of ℓ 0-norm Regularized Sparse Learning](https://www.mdpi.com/1999-4893/15/9/319)__  
 Qianqian Tong,Guannan Liang, Jiahao Ding, **Tan Zhu**, Miao Pan, Jinbo Bi.
@@ -42,15 +42,15 @@ Federated Optimization of ℓ 0-norm Regularized Sparse Learning. Algorithms, 15
 
 __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/17335)__  
 **Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
-Proceedings of the AAAI Conference on Artificial Intelligence, 35, 11193–11201, 2021.
+**AAAI 2021, (Accept Ratio: 21.1%)**
 
 __[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
-Proceedings of the AAAI Conference on Artificial Intelligence, 33, 5957–5964, 2019.
+**AAAI 2019, (Accept Ratio: 19.2%)**
 
 __[Belief-state Monte-Carlo tree search for Phantom games](https://ieeexplore.ieee.org/document/7317917)__  
 Jiao Wang, **Tan Zhu**, Hongye Li, Chu-Hsuan Hsueh, I-Chen Wu.
 2015 IEEE Conference on Computational Intelligence and Games (CIG), 267–274. IEEE, 2015.
 
 ## Contact
-Email: tan.zhu AT uconn.com
+Email: tan.zhu@uconn.com
