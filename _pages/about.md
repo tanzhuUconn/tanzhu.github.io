@@ -38,7 +38,7 @@ Translational Psychiatry, 12(1), 253, 2022, __(Nature Communications, Q1 journal
 
 __[Federated Optimization of ℓ 0-norm Regularized Sparse Learning](https://www.mdpi.com/1999-4893/15/9/319)__  
 Qianqian Tong,Guannan Liang, Jiahao Ding, **Tan Zhu**, Miao Pan, Jinbo Bi.
-Federated Optimization of ℓ 0-norm Regularized Sparse Learning. Algorithms, 15(9), 319, 2022, __(Nature Communications, Q2 journal)__
+Federated Optimization of ℓ 0-norm Regularized Sparse Learning. Algorithms, 15(9), 319, 2022, __(Q2 journal)__
 
 __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/17335)__  
 **Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
