@@ -26,7 +26,7 @@ __[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://op
 
 __[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
 **Tan Zhu**, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
-Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2023.
+Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2023, __(Q1 journal)__
 
  __[On-Device Indoor Positioning: A Federated Reinforcement Learning Approach With Heterogeneous Devices](https://ieeexplore.ieee.org/document/10214616)__  
 Fei Dou, Jin Lu, **Tan Zhu**, Jinbo Bi.
@@ -34,7 +34,7 @@ IEEE Internet of Things Journal, 2023.
 
 __[Identifying Alcohol Misuse Biotypes from Neural Connectivity Markers and Concurrent Genetic Associations](https://www.nature.com/articles/s41398-022-01983-1)__  
 **Tan Zhu**, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
-Translational Psychiatry, 12(1), 253, 2022, __(Nature Communications)__
+Translational Psychiatry, 12(1), 253, 2022, __(Nature Communications, Q1 journal)__
 
 __[Federated Optimization of ℓ 0-norm Regularized Sparse Learning](https://www.mdpi.com/1999-4893/15/9/319)__  
 Qianqian Tong,Guannan Liang, Jiahao Ding, **Tan Zhu**, Miao Pan, Jinbo Bi.
@@ -47,10 +47,6 @@ __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aa
 __[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
 **AAAI 2019, (Accept Ratio: 19.2%)**
-
-__[Belief-state Monte-Carlo tree search for Phantom games](https://ieeexplore.ieee.org/document/7317917)__  
-Jiao Wang, **Tan Zhu**, Hongye Li, Chu-Hsuan Hsueh, I-Chen Wu.
-2015 IEEE Conference on Computational Intelligence and Games (CIG), 267–274. IEEE, 2015.
 
 ## Contact
 Email: tan.zhu@uconn.com
