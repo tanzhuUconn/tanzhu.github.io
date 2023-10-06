@@ -14,11 +14,12 @@ I’m a PhD student at the Laboratory of Machine Learning & Health Informatics a
 My research interests lie primarily in explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) image datasets.
 
 ## Experience
-**01/2018 - Present | Research Assistant | University of Connecticut, US**
+
+**01/2018 - Present, Research Assistant, University of Connecticut, US**
 <!--- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
 <!--- * Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) (Advised by Prof. Wang for a year).-->
 
-**09/2014 – 01/2017 | Research Assistant | Northeastern University, Shenyang, PR China**
+**09/2014 – 01/2017, Research Assistant, Northeastern University, Shenyang, PR China**
 
 ## Projects
 
