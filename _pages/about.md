@@ -34,7 +34,7 @@ IEEE Internet of Things Journal, 2023.
 
 __[Identifying Alcohol Misuse Biotypes from Neural Connectivity Markers and Concurrent Genetic Associations](https://www.nature.com/articles/s41398-022-01983-1)__  
 **Tan Zhu**, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
-Translational Psychiatry, 12(1), 253, 2022, **Nature Communications**
+Translational Psychiatry, 12(1), 253, 2022, **(Nature Communications)**
 
 __[Federated Optimization of ℓ 0-norm Regularized Sparse Learning](https://www.mdpi.com/1999-4893/15/9/319)__  
 Qianqian Tong,Guannan Liang, Jiahao Ding, **Tan Zhu**, Miao Pan, Jinbo Bi.
