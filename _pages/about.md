@@ -11,27 +11,18 @@ redirect_from:
 
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
-My research interests lie primarily in Explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) image datasets.
+My research interests lie primarily in explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) image datasets.
 
 ## Experience
-**01/2018 - Present | Research Assistant | University of Connecticut**
+**01/2018 - Present | Research Assistant | University of Connecticut, US**
 <!--- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
 <!--- * Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) (Advised by Prof. Wang for a year).-->
 **09/2014 – 01/2017 | Research Assistant | Northeastern University, Shenyang, PR China**
 
-Work Experience
-None
-Northeastern University, Shenyang, PR China
-MS of Engineering in Computer Application Technology Thesis: Research and Application of Algorithm on Knowledge Learning from Expert Game Records of Go
-Northeastern University, Shenyang, PR China
-BS of Engineering in Computer Science and Technology
-Thesis: Design and Implementation of Script-Based Information System
-
-Aug. 2010 – Jun. 2014
 ## Selected Publications
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl&noteId=zIxILt5xSz)__  
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
-Advances in Neural Information Processing Systems, 2023.
+**NeurIPS 2023, (Accept Ratio: 26.1%)**
 
 __[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
 **Tan Zhu**, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
@@ -43,7 +34,7 @@ IEEE Internet of Things Journal, 2023.
 
 __[Identifying Alcohol Misuse Biotypes from Neural Connectivity Markers and Concurrent Genetic Associations](https://www.nature.com/articles/s41398-022-01983-1)__  
 **Tan Zhu**, Chloe Becquey, Yu Chen, Carl W. Lejuez, Chiang-Shan R. Li, Jinbo Bi.
-Translational Psychiatry, 12(1), 253, 2022.
+Translational Psychiatry, 12(1), 253, 2022, **Nature Portfolio**
 
 __[Federated Optimization of ℓ 0-norm Regularized Sparse Learning](https://www.mdpi.com/1999-4893/15/9/319)__  
 Qianqian Tong,Guannan Liang, Jiahao Ding, **Tan Zhu**, Miao Pan, Jinbo Bi.
