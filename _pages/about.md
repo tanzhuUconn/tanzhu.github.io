@@ -41,9 +41,11 @@ In stochastic contextual bandit (SCB) problems, an agent selects an action based
 <img src="/images/AAAI_performance.jpg" width="400" height="400">
 </div>
 
-__Polyhedron Attention Module: Learning Adaptive-order Interactions__
+__Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge of substance use biotypes__
 
-Learning feature interactions can be the key for multivariate predictive modeling. ReLU-activated neural networks create piecewise linear prediction models, and other nonlinear activation functions lead to models with only high-order feature interactions. Recent methods incorporate candidate polynomial terms of fixed orders into deep learning, which is subject to the issue of combinatorial explosion, or learn the orders that are difficult to adapt to different regions of the feature space. We propose a Polyhedron Attention Module (PAM) to create piecewise polynomial models where the input space is split into polyhedrons which define the different pieces and on each piece the hyperplanes that define the polyhedron boundary multiply to form the interactive terms, resulting in interactions of adaptive order to each piece. PAM is interpretable to identify important interactions in predicting a target. Theoretic analysis shows that PAM has stronger expression capability than ReLU-activated networks. Extensive experimental results demonstrate the superior classification performance of PAM on massive datasets of the click-through rate prediction and PAM can learn meaningful interaction effects in a medical problem.
+* Design and implement the clustering pipeline to generate substance-use biotypes based on functional connectivity features (FCs) in the Functional magnetic resonance imaging (fMRI) matrix. 
+* Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
+* Results have been published in _Translational Psychiatry_ __(Nature Communications, Q1 journal)__ and _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ __(Q1 journal)__ .
 
 <div>
 <img src="/images/neurips_pipeline.jpg" width="400" height="400">
