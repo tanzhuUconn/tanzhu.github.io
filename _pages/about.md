@@ -43,14 +43,16 @@ In stochastic contextual bandit (SCB) problems, an agent selects an action based
 
 __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge of substance use biotypes__
 
-* Design and implement the clustering pipeline to generate substance-use biotypes based on functional connectivity features (FCs) in the Functional magnetic resonance imaging (fMRI) matrix. 
+* Design and implement the clustering pipeline to generate substance-use biotypes based on functional connectivity features (FCs) in the Functional magnetic resonance imaging (fMRI) matrix.
+  <div>
+  <img src="/images/biotyping.jpg" width="400" height="400"> 
+  </div>
 * Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
+  <div>
+  <img src="/images/classification_result.jpg" width="400" height="400"> 
+  </div>
 * Results have been published in _Translational Psychiatry_ __(Nature Communications, Q1 journal)__ and _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ __(Q1 journal)__ .
 
-<div>
-<img src="/images/neurips_pipeline.jpg" width="400" height="400">
-<img src="/images/model_interpretation.jpg" width="400" height="400">
-</div>
 
 ## Selected Publications
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl&noteId=zIxILt5xSz)__  
