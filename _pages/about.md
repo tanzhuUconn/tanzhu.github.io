@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
 My research interests lie primarily in explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) image datasets.
@@ -25,11 +23,23 @@ My research interests lie primarily in explainable recommendation systems, reinf
 
 __Polyhedron Attention Module: Learning Adaptive-order Interactions__
 
-Learning feature interactions can be the key for multivariate predictive modeling. ReLU-activated neural networks create piecewise linear prediction models, and other nonlinear activation functions lead to models with only high-order feature interactions. Recent methods incorporate candidate polynomial terms of fixed orders into deep learning, which is subject to the issue of combinatorial explosion, or learn the orders that are difficult to adapt to different regions of the feature space. We propose a Polyhedron Attention Module (PAM) to create piecewise polynomial models where the input space is split into polyhedrons which define the different pieces and on each piece the hyperplanes that define the polyhedron boundary multiply to form the interactive terms, resulting in interactions of adaptive order to each piece. PAM is interpretable to identify important interactions in predicting a target. Theoretic analysis shows that PAM has stronger expression capability than ReLU-activated networks. Extensive experimental results demonstrate the superior classification performance of PAM on massive datasets of the click-through rate prediction and PAM can learn meaningful interaction effects in a medical problem.
+<!-- Learning feature interactions can be the key for multivariate predictive modeling. ReLU-activated neural networks create piecewise linear prediction models, and other nonlinear activation functions lead to models with only high-order feature interactions. Recent methods incorporate candidate polynomial terms of fixed orders into deep learning, which is subject to the issue of c0--=ombinatorial explosion, or learn the orders that are difficult to adapt to different regions of the feature space. We propose a Polyhedron Attention Module (PAM) to create piecewise polynomial models where the input space is split into polyhedrons which define the different pieces and on each piece the hyperplanes that define the polyhedron boundary multiply to form the interactive terms, resulting in interactions of adaptive order to each piece. PAM is interpretable to identify important interactions in predicting a target. Theoretic analysis shows that PAM has stronger expression capability than ReLU-activated networks. Extensive experimental results demonstrate the superior classification performance of PAM on massive datasets of the click-through rate prediction and PAM can learn meaningful interaction effects in a medical problem. -->
 
+* Design and implement, Polyhedron Attention Module (PAM),an attention module for deep neural networks (DNN) to explicitly model the interactions among the model's inputs on the target. Results have been published in __NeurIPS 2023 (Accept Ratio: 26.1%)__ .
+  <div>
+  <img src="/images/neurips_pipeline.jpg" width="400" height="400">
+  </div>
+* Our module splits the input space into subspaces (polyhedrons) and adaptively learns different interactive terms in each subspace. An input sample will be assigned to one or more subspaces, and interactions learned in these subspaces were used to predict the targets. Theoretic analysis shows that our module has stronger expression capability than ReLU-activated networks.
+  <div>
+  <img src="/images/classification_result.jpg" width="400" height="400"> 
+  </div>
+* Our model has state-of-the-art performance on massive datasets of the __click-through rate prediction__, a critical machine learning problem in the __recommendation system__.
 <div>
-<img src="/images/neurips_pipeline.jpg" width="400" height="400">
-<img src="/images/model_interpretation.jpg" width="400" height="400">
+<img src="/images/classification_result.jpg" width="400" height="400"> 
+</div>   
+* Our module is interpretable to identify important interactions in predicting a target. Experiment shows that our module can learn meaningful interaction effects in a medical problem (predict brain age with brain image).
+<div>
+<img src="/images/model_interpretation.jpg"  height="250">
 </div>
 
 __An Efficient Algorithm for Deep Stochastic Contextual Bandits__
