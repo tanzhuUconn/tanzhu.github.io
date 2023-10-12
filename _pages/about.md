@@ -63,7 +63,7 @@ __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge 
 
 * Design and implement the clustering pipeline to generate substance-use biotypes based on functional connectivity features (FCs) in the Functional magnetic resonance imaging (fMRI) matrix.
   <div>
-  <img src="/images/biotyping.jpg" width="400" height="400"> 
+  <img src="/images/brain_net.png" height="600"> 
   </div>
 * Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
   <div>
