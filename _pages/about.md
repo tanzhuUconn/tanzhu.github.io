@@ -27,7 +27,7 @@ __Polyhedron Attention Module: Learning Adaptive-order Interactions__
 
 * Design and implement, Polyhedron Attention Module (PAM),an attention module for deep neural networks (DNN) to explicitly model the interactions among the model's inputs on the target. Results have been published in __NeurIPS 2023 (Accept Ratio: 26.1%)__ .
   <div>
-  <img src="/images/neurips_pipeline.jpg" width="400" height="400">
+  <img src="/images/nips_pipeline.jpg" width="400" height="400">
   </div>
 * Our module splits the input space into subspaces (polyhedrons) and adaptively learns different interactive terms in each subspace. An input sample will be assigned to one or more subspaces, and interactions learned in these subspaces were used to predict the targets. Theoretic analysis shows that our module has stronger expression capability than ReLU-activated networks.
   <div>
