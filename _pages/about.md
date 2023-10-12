@@ -30,13 +30,21 @@ __Polyhedron Attention Module: Learning Adaptive-order Interactions__
   <img src="/images/nips_pipeline.jpg" height="400">
   </div>
 * Our module splits the input space into subspaces (polyhedrons) and adaptively learns different interactive terms in each subspace. An input sample will be assigned to one or more subspaces, and interactions learned in these subspaces were used to predict the targets. Theoretic analysis shows that our module has stronger expression capability than ReLU-activated networks.
+  <details close>
+  <summary> Click to see the example </summary>
   <div>
-  <img src="/images/adaptive_interaction_effect.jpg" height="800"> 
-  </div>
+    <img src="/images/adaptive_interaction_effect.jpg" height="800"> 
+    </div>
+  </details>
+  
 * Our model has state-of-the-art performance on massive datasets of the __click-through rate prediction__, a critical machine learning problem in the __recommendation system__.
+  <details close>
+  <summary> Click to see the result in our paper </summary>
   <div>
   <img src="/images/nips_result.jpg"  height="700"> 
   </div>   
+  </details>
+  
 * Our module is interpretable to identify important interactions in predicting a target. Experiment shows that our module can learn meaningful interaction effects in a medical problem (predict brain age with brain image).
   <div>
   <img src="/images/model_interpretation.jpg"  height="250">
