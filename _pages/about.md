@@ -89,16 +89,16 @@ __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge 
   <img src="/images/brain_net.png" height="600"> 
   </div>
 * Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
-  <div>
-  <img src="/images/classification_result.jpg"  height="100"> 
-  </div>
+  
+  <img src="/images/classification_result.jpg"  height="250">
+  
   <details close>
   <summary> Click to see the architecture of the ANN  </summary>
   <div >
   <img src="/images/ANN_structure.png" height="400"> 
   </div>
   </details>
-* Results have been published in _Translational Psychiatry_ __(Nature Communications, Q1 journal)__ and _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ __(Q1 journal)__ .
+* Results have been published in _Translational Psychiatry_ __(Nature Communications, Q1 journal)__ and _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ **(Q1 journal)**.
 
 
 ## Selected Publications
