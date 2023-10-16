@@ -69,7 +69,7 @@ __An Efficient Algorithm for Deep Stochastic Contextual Bandits__
   <summary> Click to see our theory conclusion in the published paper  </summary>
    <hr>
   <div >
-  <img src="/images/theorem_conclusion.jpg" height="200">
+  <img src="/images/theorem_conclusion.jpg" height="100">
   </div>
     <hr>
   </details>
