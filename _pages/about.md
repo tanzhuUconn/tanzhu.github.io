@@ -57,24 +57,20 @@ __An Efficient Algorithm for Deep Stochastic Contextual Bandits__
 * We formulate a stage-wised optimization algorithm for deep stochastic contextual bandits problem. Results have been published in __AAAI 2021 (Accept Ratio: 21.1%)__ .
   <details close>
   <summary> Click to see the pseudocode </summary>
-    
-  ---
+  <hr>
   <div >
   <img src="/images/aaai_pseudo_code.jpg" height="400">
   </div>
-  
-  ---
+  <hr>
   </details>
 * We prove that with high probability, the action sequence chosen by this algorithm converges to a greedy action policy respecting a local optimal reward function.
   <details close>
   <summary> Click to see our theory conclusion in the published paper  </summary>
-    
-  ---
+   <hr>
   <div >
   <img src="/images/theorem_conclusion.jpg" height="200">
   </div>
-  
-  ---
+    <hr>
   </details>
 * Extensive experiments have been performed to demonstrate the effectiveness and efficiency of the proposed algorithm on multiple real-world datasets.
   <details close>
