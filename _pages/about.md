@@ -90,7 +90,7 @@ __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge 
   </div>
 * Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
   
-  <img src="/images/classification_result.jpg"  sizes="100px">
+  <img src="/images/classification_result.jpg"  sizes="(max-width: 200px) 120px">
   
   <details close>
   <summary> Click to see the architecture of the ANN  </summary>
