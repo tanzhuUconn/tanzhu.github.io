@@ -121,7 +121,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   </div>
 * Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
   <div >
-  <img src="/images/classification_result.jpg"  width="200"/>
+  <img src="/images/classification_result.jpg"  width="500"/>
   </div>
   <details close>
   <summary> <strong>Click to see the architecture of the ANN</strong>  </summary>
