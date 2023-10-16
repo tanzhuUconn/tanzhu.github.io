@@ -12,7 +12,7 @@ I’m a PhD student at the Laboratory of Machine Learning & Health Informatics a
 
 My research interests lie primarily in explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) image datasets.
 
-## Experience
+# Experience
 
 **01/2018 - Present, Research Assistant, University of Connecticut, US**
 <!--- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
@@ -22,7 +22,7 @@ My research interests lie primarily in explainable recommendation systems, reinf
 
 
 
-## Selected Publications
+# Selected Publications
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl&noteId=zIxILt5xSz)__  
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
 **NeurIPS 2023, (Accept Ratio: 26.1%)**
@@ -51,9 +51,9 @@ __[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
 **AAAI 2019, (Accept Ratio: 19.2%)**
 
-## Projects
+# Projects
 
-__Polyhedron Attention Module: Learning Adaptive-order Interactions__
+## __Polyhedron Attention Module: Learning Adaptive-order Interactions__
 
 <!-- Learning feature interactions can be the key for multivariate predictive modeling. ReLU-activated neural networks create piecewise linear prediction models, and other nonlinear activation functions lead to models with only high-order feature interactions. Recent methods incorporate candidate polynomial terms of fixed orders into deep learning, which is subject to the issue of c0--=ombinatorial explosion, or learn the orders that are difficult to adapt to different regions of the feature space. We propose a Polyhedron Attention Module (PAM) to create piecewise polynomial models where the input space is split into polyhedrons which define the different pieces and on each piece the hyperplanes that define the polyhedron boundary multiply to form the interactive terms, resulting in interactions of adaptive order to each piece. PAM is interpretable to identify important interactions in predicting a target. Theoretic analysis shows that PAM has stronger expression capability than ReLU-activated networks. Extensive experimental results demonstrate the superior classification performance of PAM on massive datasets of the click-through rate prediction and PAM can learn meaningful interaction effects in a medical problem. -->
 
@@ -82,7 +82,7 @@ __Polyhedron Attention Module: Learning Adaptive-order Interactions__
   <img src="/images/model_interpretation.jpg"  height="250">
   </div>
   
-__An Efficient Algorithm for Deep Stochastic Contextual Bandits__
+## __An Efficient Algorithm for Deep Stochastic Contextual Bandits__
   <div>
   <img src="/images/AAAI_problem.jpg" height="400">
   </div>
@@ -113,7 +113,7 @@ __An Efficient Algorithm for Deep Stochastic Contextual Bandits__
   </details>
   
 
-__Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge of substance use biotypes__
+## __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge of substance use biotypes__
 
 * Design and implement the clustering pipeline to generate substance-use biotypes based on functional connectivity features (FCs) in the Functional magnetic resonance imaging (fMRI) matrix.
   <div>
@@ -133,5 +133,5 @@ __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge 
 
 
 
-## Contact
+# Contact
 Email: tan.zhu@uconn.com
