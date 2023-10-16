@@ -33,7 +33,7 @@ __Polyhedron Attention Module: Learning Adaptive-order Interactions__
   <details close>
   <summary> Click to see the example </summary>
   <div>
-    <img src="/images/adaptive_interaction_effect.jpg" height="800"> 
+    <img src="/images/nips_adaptive_interactions.jpg" height="800"> 
     </div>
   </details>
   
