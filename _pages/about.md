@@ -7,15 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-    hr {
-        border: none;
-        border-top: 1px solid black;
-        height: 1px;
-        color: black; 
-        background-color: black;
-    }
-</style>
+
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
 My research interests lie primarily in explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) image datasets.
@@ -98,9 +90,14 @@ __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge 
   </div>
 * Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
   <div>
-  <img src="/images/ANN_structure.png" height="400"> 
-  <img src="/images/classification_result.jpg"  height="400"> 
+  <img src="/images/classification_result.jpg"  height="200"> 
   </div>
+  <details close>
+  <summary> Click to see the architecture of the ANN  </summary>
+  <div >
+  <img src="/images/ANN_structure.png" height="400"> 
+  </div>
+  </details>
 * Results have been published in _Translational Psychiatry_ __(Nature Communications, Q1 journal)__ and _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ __(Q1 journal)__ .
 
 
