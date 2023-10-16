@@ -69,7 +69,7 @@ __An Efficient Algorithm for Deep Stochastic Contextual Bandits__
   <summary> Click to see our theory conclusion in the published paper  </summary>
    <hr>
   <div >
-  <img src="/images/theorem_conclusion.jpg" height="100">
+  <img src="/images/theorem_conclusion.jpg" height="200">
   </div>
     <hr>
   </details>
@@ -90,7 +90,7 @@ __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge 
   </div>
 * Propose novel Artificial Neural Networks (ANN) diagnosing addictions with FCs of fMRI.
   <div>
-  <img src="/images/classification_result.jpg"  height="200"> 
+  <img src="/images/classification_result.jpg"  height="100"> 
   </div>
   <details close>
   <summary> Click to see the architecture of the ANN  </summary>
