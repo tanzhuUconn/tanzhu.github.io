@@ -63,7 +63,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   </div>
 * Our module splits the input space into subspaces (polyhedrons) and adaptively learns different interactive terms in each subspace. An input sample will be assigned to one or more subspaces, and interactions learned in these subspaces were used to predict the targets. Theoretic analysis shows that our module has stronger expression capability than ReLU-activated networks.
   <details close>
-  <summary> Click to see the example </summary>
+  <summary><strong>Click to see the example</strong></summary>
   <div>
     <img src="/images/nips_adaptive_interactions.jpg" height="800"> 
     </div>
@@ -71,7 +71,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   
 * Our model has state-of-the-art performance on massive datasets of the __click-through rate prediction__, a critical machine learning problem in the __recommendation system__.
   <details close>
-  <summary> Click to see the result in our paper </summary>
+  <summary> <strong>Click to see the result in our paper</strong> </summary>
   <div>
   <img src="/images/nips_result.jpg"  height="700"> 
   </div>   
@@ -88,7 +88,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   </div>
 * We formulate a stage-wised optimization algorithm for deep stochastic contextual bandits problem. Results have been published in __AAAI 2021 (Accept Ratio: 21.1%)__ .
   <details close>
-  <summary> Click to see the pseudocode </summary>
+  <summary> <strong>Click to see the pseudocode</strong> </summary>
   <hr>
   <div >
   <img src="/images/aaai_pseudo_code.jpg" height="400">
@@ -97,7 +97,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   </details>
 * We prove that with high probability, the action sequence chosen by this algorithm converges to a greedy action policy respecting a local optimal reward function.
   <details close>
-  <summary> Click to see our theory conclusion in the published paper  </summary>
+  <summary> <strong>Click to see our theory conclusion in the published paper</strong>  </summary>
    <hr>
   <div >
   <img src="/images/theorem_conclusion.jpg" height="200">
@@ -106,7 +106,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   </details>
 * Extensive experiments have been performed to demonstrate the effectiveness and efficiency of the proposed algorithm on multiple real-world datasets.
   <details close>
-  <summary> Click to see the result in our paper </summary>
+  <summary> <strong>Click to see the result in our paper</strong> </summary>
   <div>
     <img src="/images/AAAI_performance.jpg" height="800"> 
     </div>
@@ -124,7 +124,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   <img src="/images/classification_result.jpg"  width="200"/>
   </div>
   <details close>
-  <summary> Click to see the architecture of the ANN  </summary>
+  <summary> <strong>Click to see the architecture of the ANN</strong>  </summary>
   <div >
   <img src="/images/ANN_structure.png" height="400"> 
   </div>
