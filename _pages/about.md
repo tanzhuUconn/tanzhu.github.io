@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
-My research interests lie primarily in explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) image datasets.
+My research interests lie primarily in explainable recommendation systems, reinforcement learning, and deep learning-based Disease Diagnosis models, with an emphasis on Click-through rate (CTR) prediction, stochastic contexture bandit problem, DNN model diagnosing alcohol/nicotine use disorder using brain Magnetic resonance imaging (MRI) datasets.
 
 # Experience
 
