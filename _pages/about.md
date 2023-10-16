@@ -25,7 +25,7 @@ __Polyhedron Attention Module: Learning Adaptive-order Interactions__
 
 <!-- Learning feature interactions can be the key for multivariate predictive modeling. ReLU-activated neural networks create piecewise linear prediction models, and other nonlinear activation functions lead to models with only high-order feature interactions. Recent methods incorporate candidate polynomial terms of fixed orders into deep learning, which is subject to the issue of c0--=ombinatorial explosion, or learn the orders that are difficult to adapt to different regions of the feature space. We propose a Polyhedron Attention Module (PAM) to create piecewise polynomial models where the input space is split into polyhedrons which define the different pieces and on each piece the hyperplanes that define the polyhedron boundary multiply to form the interactive terms, resulting in interactions of adaptive order to each piece. PAM is interpretable to identify important interactions in predicting a target. Theoretic analysis shows that PAM has stronger expression capability than ReLU-activated networks. Extensive experimental results demonstrate the superior classification performance of PAM on massive datasets of the click-through rate prediction and PAM can learn meaningful interaction effects in a medical problem. -->
 
-* Design and implement, Polyhedron Attention Module (PAM),an attention module for deep neural networks (DNN) to explicitly model the interactions among the model's inputs on the target. Results have been published in __NeurIPS 2023 (Accept Ratio: 26.1%)__ .
+* Design and implement a module called Polyhedron Attention Module (PAM) for deep neural networks (DNN) to explicitly model the interactions among the model's inputs on the target. Results have been published in __NeurIPS 2023 (Accept Ratio: 26.1%)__ .
   <div>
   <img src="/images/nips_pipeline.jpg" height="400">
   </div>
@@ -51,13 +51,25 @@ __Polyhedron Attention Module: Learning Adaptive-order Interactions__
   </div>
 
 __An Efficient Algorithm for Deep Stochastic Contextual Bandits__
-
-In stochastic contextual bandit (SCB) problems, an agent selects an action based on certain observed context to maximize the cumulative reward over iterations. Recently there have been a few studies using a deep neural network (DNN) to predict the expected reward for an action, and the DNN is trained by a stochastic gradient based method. However, convergence analysis has been greatly ignored to examine whether and where these methods converge. In this work, we formulate the SCB that uses a DNN reward function as a non-convex stochastic optimization problem, and design a stage-wise stochastic gradient descent algorithm to optimize the problem and determine the action policy. We prove that with high probability, the action sequence chosen by this algorithm converges to a greedy action policy respecting a local optimal reward function. Extensive experiments have been performed to demonstrate the effectiveness and efficiency of the proposed algorithm on multiple real-world datasets.
-
-<div>
-<img src="/images/AAAI_problem.jpg" width="400" height="400">
-<img src="/images/AAAI_performance.jpg" width="400" height="400">
-</div>
+  <div>
+  <img src="/images/AAAI_problem.jpg" height="400">
+  </div>
+* We formulate a stage-wised optimization algorithm for deep stochastic contextual bandits problem. Results have been published in __AAAI 2021 (Accept Ratio: 21.1%)__ .
+  <div>
+  <img src="/images/aaai_pseudo_code.jpg" height="400">
+  </div>
+* We prove that with high probability, the action sequence chosen by this algorithm converges to a greedy action policy respecting a local optimal reward function.
+  <div>
+  <img src="/images/theorem_conclusion.jpg" height="400">
+  </div>
+* Extensive experiments have been performed to demonstrate the effectiveness and efficiency of the proposed algorithm on multiple real-world datasets.
+  <details close>
+  <summary> Click to see the result in our paper </summary>
+  <div>
+    <img src="/images/AAAI_performance.jpg" height="800"> 
+    </div>
+  </details>
+  
 
 __Diagnosing Addictions with Artificial Neural Networks utilizing the knowledge of substance use biotypes__
 
