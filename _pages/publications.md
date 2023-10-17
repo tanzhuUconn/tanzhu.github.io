@@ -9,7 +9,7 @@ __[Polyhedron Attention Module: Learning Adaptive-order Interactions]()__
 **NeurIPS 2023, (Accept Ratio: 26.1%)**
 
 __[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
-Tan Zhu, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
+**Tan Zhu**, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
 Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2023.
 
  __[On-Device Indoor Positioning: A Federated Reinforcement Learning Approach With Heterogeneous Devices](https://ieeexplore.ieee.org/document/10214616)__  
