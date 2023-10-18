@@ -23,7 +23,6 @@ My research interests lie primarily in explainable recommendation systems, reinf
 
 
 # Selected Publications
-<--!https://openreview.net/forum?id=6JrckqCxtl&noteId=zIxILt5xSz-->
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions]()__  
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
 **NeurIPS 2023, (Accept Ratio: 26.1%)**
