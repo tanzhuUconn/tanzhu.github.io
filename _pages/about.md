@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
-My research interests lie primarily in explainable deep neural networks, reinforcement learning, and  deep Learning for MRI Diagnostics, with an emphasis on **attention module**,  **stochastic contexture bandit problem**, and **DNN model diagnosing alcohol/nicotine use disorder with brain image datasets**.
+My research interests lie primarily in explainable deep neural networks-based recommendation system, reinforcement learning, and deep learning for MRI diagnostics, with an emphasis on **attention module**,  **stochastic contexture bandit problem**, and **DNN model diagnosing alcohol/nicotine use disorder with brain image datasets**.
 
 # Experience
 
@@ -18,7 +18,7 @@ My research interests lie primarily in explainable deep neural networks, reinfor
 <!--- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
 <!--- * Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) (Advised by Prof. Wang for a year).-->
 
-Research interests: Explainable deep neural networks, Reinforcement learning, and Deep Learning for MRI Diagnostics.
+Research interests: Explainable deep neural networks-based recommendation system, reinforcement learning, and deep learning for MRI diagnostics.
 
 **09/2014 – 01/2017, Research Assistant, Northeastern University, Shenyang, PR China**
 
