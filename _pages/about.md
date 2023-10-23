@@ -10,13 +10,11 @@ redirect_from:
 
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
-My research interests lie primarily in explainable deep neural networks-based recommendation system, reinforcement learning, and deep learning for MRI diagnostics, with an emphasis on **attention module**,  **stochastic contexture bandit problem**, and **DNN model diagnosing alcohol/nicotine use disorder with brain image datasets**.
+My research interests lie primarily in explainable deep neural networks-based recommendation systems, reinforcement learning, and deep learning for MRI diagnostics, with an emphasis on **attention module**,  **stochastic contexture bandit problem**, and **DNN model diagnosing alcohol/nicotine use disorder with brain image datasets**.
 
 # Experience
 
 **01/2018 - Present, Research Assistant, University of Connecticut, US**
-<!--- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
-<!--- * Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) (Advised by Prof. Wang for a year).-->
 
 Research interests: Explainable deep neural networks-based recommendation system, reinforcement learning, and deep learning for MRI diagnostics.
 
@@ -27,7 +25,7 @@ Thesis: Research and Application of Algorithm on Knowledge Learning from Expert 
 # Selected Publications
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions]()__  
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
-**NeurIPS 2023, (Accept Ratio: 26.1%)**
+**NeurIPS 2023, (A<sup>+</sup> conference, accept Ratio: 26.1%)**
 
 __[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
 **Tan Zhu**, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
@@ -47,11 +45,11 @@ Federated Optimization of ℓ 0-norm Regularized Sparse Learning. Algorithms, 15
 
 __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/17335)__  
 **Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
-**AAAI 2021, (Accept Ratio: 21.1%)**
+**AAAI 2021, (A<sup>+</sup> conference, accept Ratio: 21.1%)**
 
 __[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
-**AAAI 2019, (Accept Ratio: 19.2%)**
+**AAAI 2019, (A<sup>+</sup> conference, accept Ratio: 19.2%)**
 
 # Projects
 
