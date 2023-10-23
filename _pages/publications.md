@@ -26,7 +26,7 @@ Federated Optimization of ℓ 0-norm Regularized Sparse Learning. Algorithms, 15
 
 __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/17335)__  
 **Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
-**AAAI 2021, (A<sup>+</sup> conference, accept Ratio: 21.1%)**.
+**AAAI 2021, (A<sup>+</sup> conference, accept Ratio: 21.4%)**.
 
  __[OctSurf: Efficient hierarchical voxel-based molecular surface representation for protein-ligand affinity prediction](https://www.sciencedirect.com/science/article/pii/S1093326321000346)__  
 Qinqing Liu, Peng-Shuai Wang, Chunjiang Zhu, Blake Blumenfeld Gaines, Tan Zhu, Jinbo Bi, Minghu Song.
@@ -41,7 +41,7 @@ Federated nonconvex sparse learning. arXiv Preprint arXiv:2101. 00052, 2020.
  
 __[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
-**AAAI 2019, (A<sup>+</sup> conference, accept Ratio: 19.2%)**.
+**AAAI 2019, (A<sup>+</sup> conference, accept Ratio: 16.2%)**.
 
 __[Accelerating large-scale molecular similarity search through exploiting high performance computing](https://ieeexplore.ieee.org/abstract/document/8982950)__  
 Chun Jiang Zhu, Tan Zhu, Haining Li, Jinbo Bi, Minghu Song.
