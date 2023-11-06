@@ -22,7 +22,7 @@ Research interests: Explainable deep neural networks-based recommendation system
 
 Thesis: Research and Application of Algorithm on Knowledge Learning from Expert Game Records of Go
 
-# Selected Publications (6 out of 18)
+# Selected Publications (7 out of 18)
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions]()__  
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
 **NeurIPS 2023, (A<sup>+</sup> conference, accept ratio: 26.1%)**
