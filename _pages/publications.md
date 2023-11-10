@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-__[Polyhedron Attention Module: Learning Adaptive-order Interactions]()__  
+__[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl)__  
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
 **NeurIPS 2023, (A<sup>+</sup> conference, accept Ratio: 26.1%)**
 
