@@ -23,7 +23,7 @@ Research interests: Explainable deep neural networks-based recommendation system
 Thesis: Research and Application of Algorithm on Knowledge Learning from Expert Game Records of Go
 
 # Selected Publications (7 out of 18)
-__[Polyhedron Attention Module: Learning Adaptive-order Interactions]()__  
+__[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl)__    
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
 **NeurIPS 2023, (A<sup>+</sup> conference, accept ratio: 26.1%)**
 
@@ -47,7 +47,7 @@ __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aa
 **Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
 **AAAI 2021, (A<sup>+</sup> conference, accept ratio: 21.4%)**
 
-__[Communication-optimal Distributed Dynamic Graph Clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9275443/)__
+__[Communication-optimal Distributed Dynamic Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/4547)__  
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
 **AAAI 2019, (A<sup>+</sup> conference, accept ratio: 16.2%)**
 
