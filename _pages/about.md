@@ -1,4 +1,3 @@
-![image](https://github.com/tanzhucs/tanzhucs.github.io/assets/50213981/2feb9266-91c4-4648-9ba5-d0227070991b)---
 permalink: /
 title: ""
 excerpt: ""
