@@ -1,4 +1,4 @@
----
+![image](https://github.com/tanzhucs/tanzhucs.github.io/assets/50213981/2feb9266-91c4-4648-9ba5-d0227070991b)---
 permalink: /
 title: ""
 excerpt: ""
@@ -52,8 +52,10 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
 **AAAI 2019, (A<sup>+</sup> conference, acceptance rate: 16.2%)**
 
 # Working Papers
-__[Identifying Interactions among Categorical Predictors with Monte-Carlo Tree Search]__
-**Tan Zhu**, Fei Dou, Chloe Becquey, Jinbo Bi, 
+__Identifying Shared Neural Markers Across Positive and Negative Valence for Depression and Anxiety__
+**Tan Zhu**, Chen Yu, Chiang-Shan Ray Li, Jinbo Bi
+__Identifying Interactions among Categorical Predictors with Monte-Carlo Tree Search__
+**Tan Zhu**, Fei Dou, Chloe Becquey, Jinbo Bi
 
 # Projects
 
