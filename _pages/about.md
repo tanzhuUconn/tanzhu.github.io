@@ -53,12 +53,6 @@ __[Communication-optimal Distributed Dynamic Graph Clustering](https://ojs.aaai.
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
 **AAAI 2019, (A<sup>+</sup> conference, acceptance rate: 16.2%)**
 
-# Working Papers
-__Identifying Shared Neural Markers Across Positive and Negative Valence for Depression and Anxiety__
-**Tan Zhu**, Chen Yu, Chiang-Shan Ray Li, Jinbo Bi
-__Identifying Interactions among Categorical Predictors with Monte-Carlo Tree Search__
-**Tan Zhu**, Fei Dou, Chloe Becquey, Jinbo Bi
-
 # Projects
 
 ## __Polyhedron Attention Module: Learning Adaptive-order Interactions__
