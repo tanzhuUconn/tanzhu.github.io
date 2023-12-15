@@ -25,7 +25,7 @@ Thesis: Research and Application of Algorithm on Knowledge Learning from Expert 
 # Selected Publications (7 out of 18)
 __[Polyhedron Attention Module: Learning Adaptive-order Interactions](https://openreview.net/forum?id=6JrckqCxtl)__    
 **Tan Zhu**, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi.
-**NeurIPS 2023, (A<sup>+</sup> conference, accept ratio: 26.1%)**
+**NeurIPS 2023, (A<sup>+</sup> conference, acceptance rate: 26.1%)**
 
 __[Machine Learning of Functional Connectivity to Biotype Alcohol and Nicotine Use Disorders](https://www.sciencedirect.com/science/article/pii/S2451902223002227)__  
 **Tan Zhu**, Wuyi Wang, Yu Chen, Henry R Kranzler, Chiang-Shan R Li, Jinbo Bi.
@@ -45,11 +45,11 @@ Federated Optimization of ℓ 0-norm Regularized Sparse Learning. Algorithms, 15
 
 __[An Efficient Algorithm for Deep Stochastic Contextual Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/17335)__  
 **Tan Zhu**, Guannan Liang, Chunjiang Zhu, Haining Li, Jinbo Bi.
-**AAAI 2021, (A<sup>+</sup> conference, accept ratio: 21.4%)**
+**AAAI 2021, (A<sup>+</sup> conference, acceptance rate: 21.4%)**
 
 __[Communication-optimal Distributed Dynamic Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/4547)__  
 Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
-**AAAI 2019, (A<sup>+</sup> conference, accept ratio: 16.2%)**
+**AAAI 2019, (A<sup>+</sup> conference, acceptance rate: 16.2%)**
 
 # Projects
 
@@ -57,7 +57,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
 
 <!-- Learning feature interactions can be the key for multivariate predictive modeling. ReLU-activated neural networks create piecewise linear prediction models, and other nonlinear activation functions lead to models with only high-order feature interactions. Recent methods incorporate candidate polynomial terms of fixed orders into deep learning, which is subject to the issue of c0--=ombinatorial explosion, or learn the orders that are difficult to adapt to different regions of the feature space. We propose a Polyhedron Attention Module (PAM) to create piecewise polynomial models where the input space is split into polyhedrons which define the different pieces and on each piece the hyperplanes that define the polyhedron boundary multiply to form the interactive terms, resulting in interactions of adaptive order to each piece. PAM is interpretable to identify important interactions in predicting a target. Theoretic analysis shows that PAM has stronger expression capability than ReLU-activated networks. Extensive experimental results demonstrate the superior classification performance of PAM on massive datasets of the click-through rate prediction and PAM can learn meaningful interaction effects in a medical problem. -->
 
-* Design and implement a module called Polyhedron Attention Module (PAM) for deep neural networks to explicitly model the interaction effects among the model’s inputs on the model’s output. Results have been published in __NeurIPS 2023 (Accept Ratio: 26.1%)__ .
+* Design and implement a module called Polyhedron Attention Module (PAM) for deep neural networks to explicitly model the interaction effects among the model’s inputs on the model’s output. Results have been published in __NeurIPS 2023 (Acceptance rate: 26.1%)__ .
   <div>
   <img src="/images/nips_pipeline.jpg" height="400">
   </div>
@@ -86,7 +86,7 @@ Chun Jiang Zhu, **Tan Zhu**, Kam-Yiu Lam, Song Han, and Jinbo Bi.
   <div>
   <img src="/images/AAAI_problem.jpg" height="400">
   </div>
-* We formulate a stage-wised optimization algorithm for deep stochastic contextual bandits problem. Results have been published in __AAAI 2021 (Accept Ratio: 21.1%)__ .
+* We formulate a stage-wised optimization algorithm for deep stochastic contextual bandits problem. Results have been published in __AAAI 2021 (Acceptance rate: 21.1%)__ .
   <details close>
   <summary> <strong>Click to see the pseudocode</strong> </summary>
   <hr>
