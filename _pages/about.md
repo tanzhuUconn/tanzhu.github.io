@@ -10,9 +10,8 @@ redirect_from:
 
 I’m a PhD student at the Laboratory of Machine Learning & Health Informatics at the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). 
 
-My research interests lie primarily in **reinforcement learning** (focusing on deep stochastic contexture bandit problem and Monte Carlo tree search) and **deep neural networks-based recommendation system** with an emphasis on self-attention module and click-through rate prediction.
+My research interests lie primarily in **reinforcement learning** (focusing on deep stochastic contexture bandit problem and Monte Carlo tree search) and **deep neural networks-based recommendation system** with an emphasis on self-attention module, click-through rate prediction, and diagnosing model of alcohol/nicotine use disorder. Recently, I’ve been trying to develop a dataset distillation method to train a large language model-based recommendation system efficiently. 
 
-explainable deep neural networks-based recommendation systems, reinforcement learning, and deep learning for MRI diagnostics, with an emphasis on **attention module**,  **stochastic contexture bandit problem**, and **DNN model diagnosing alcohol/nicotine use disorder with brain image datasets**.
 
 # Experience
 
